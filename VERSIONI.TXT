@@ -1,0 +1,69 @@
+RELEASE S3/1.05 (Standard 3, minor graphics fixes)
+19lug07: Correzioni a piccole imperfezioni grafiche; modifiche al sorgente per
+         supportare la libreria FMod.dll 3.7.5; aggiunta icona 16x16 per
+         modalita' 16 colori; modifiche al form "About..."; compilato con
+         Delphi 6
+
+RELEASE S3/1.04 (Standard 3, final)
+07mar01: Implementata la FMod.dll 3.31 per migliore compatibilita'
+04mar01: Nuovo standard S3: viene sfruttata la libreria audio "fmod.dll" per
+         maggiore stabilita' e qualita'; altre piccole modifiche
+
+RELEASE 1.03 (manual release)
+09giu00: Ritoccate le immagini del manuale inviatemi da Hiroshi Kaneko; creato
+         il form, i pulsanti e le routines per le istruzioni; compilato il
+         manuale; disegnata l'icona del manuale
+
+RELEASE 1.02 (bug-fix)
+27mag00: Fixati due bugs nell'orologio ed uno nella routine della
+         visualizzazione del punteggio; modificato l'aspetto del form
+         principale; ; nuovo schermo introduttivo; beta-testing
+
+RELEASE 1.01 (Chance-Time e maggiore accuratezza nella simulazione)
+10mar00: Beta-testing
+08mar00: Campionata la musica del bonus; corretto un piccolo bug nel
+         trascinamento del form; modificato il punteggio massimo
+         raggiungibile, ora fissato a 999 anzichè a 1999; corretto un piccolo
+         bug di inizializzazione; aggiunto lo "Chance-Time"; modificata la
+         routine per la gestione del punteggio
+
+RELEASE 1.00
+19feb00: Differenziati il gioco A da quello B; beta-testing
+18feb00: Implementato l'aumento di velocita' col procedere del gioco
+14feb00: Modificato il popup menu; inserito lo schermo "about"; implementato
+         il salvataggio dello HiScore mediante il registro di sistema
+
+RELEASE 0.1 BETA
+12feb00: Implementata la routine per la perdita delle vite al tocco delle
+         fiammelle; reinserito il popup menu; risincronizzati alcuni timers;
+         aggiunto lo schermo introduttivo all'avvio del programma
+10feb00: Rimosso temporaneamente il popup menu, che causava dei conflitti di
+         risorse; cambiate alcune strutture dati per aumentare la velocita' di
+         esecuzione; implementate le routines per la gestione del movimento e
+         delle collisioni con le fiammelle e preliminari per la loro
+         generazione casuale
+09feb00: Inserito il popup menu; cambiata la procedura di visualizzazione
+         all'avvio del programma
+08feb00: Inserite le immagini dei pulsanti destro e sinistro premuti; inserita
+         la routine per la perdita delle vite; campionate le ultime musiche;
+         implementata la routine per il game over
+07feb00: Implementata la procedura per il movimento delle gambe di Donkey
+         Kong; campioante ed aggiunte altre musiche; implementato il movimento
+         degli ananas; procedure preliminari per la gestione delle collisioni;
+         definite le routines per il punteggio; implementata la routine per il
+         random degli ananas
+06feb00: Riorganizzati tutti gli sprites sul display LCD; aggiunta la routine
+         per la gestione del tasto ACL; routines preliminari per il movimento
+         di Donkey Kong
+05feb00: Campionate le prime musiche; altre routines per l'avvio del gioco e
+         per la gestione dei tasti; terminata la mappatura degli sprites sul
+         display LCD; implementato il punteggio mediante LCD; implementato
+         l'orologio mediante LCD
+04feb00: Mappati altri sprites sul display LCD; routines preliminari per la
+         gestione dei tasti
+29gen00: Mappati i primi sprites sul display LCD; disegnata ed inserita
+         l'icona principale; implementato il trascinamento del form del gioco
+22gen00: Iniziato il codice preliminare con Delphi 1.0; routines preliminari
+         per l'avvio del gioco
+17gen00: Cominciata la rielaborazione delle immagini
+16gen00: Eseguite le scansioni del gioco elettronico

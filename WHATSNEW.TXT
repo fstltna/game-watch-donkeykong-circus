@@ -1,0 +1,23 @@
+July 19th, 2007 - Release S3/1.05 (Standard 3, minor graphics fixes)
+Fixed a few wrong images; changed source a bit to use FMod.dll 3.7.5; minor
+graphics changes to the "About..." window; changed program icons a bit;
+compiled with Delphi 6 for more stability.
+
+March 7th, 2001 - Release S3/1.04 (Standard 3, final)
+New standard: totally rewritten sound routines. Fmod sound library 3.31 added;
+new splash-screen and minor updates
+
+June 11th, 2K - Release 1.03 (Manual release)
+Retouched all scanned images from the original booklet (thanks to Hiroshi
+Kaneko from Tokyo for sending me them). Built form, drawed icon and  buttons,
+coded all routines for the "Manual" application.
+
+May 27th, 2K - Release 1.02 (Bug-fixes and more)
+Fixed two small bugs in the watch routine, plus another bug in the score
+viewing routine; changed the aspect for the main form ; new splash-screen
+
+Mar 10th, 2K - Release 1.01 ("Chance-Time" Release)
+Beta-testing; recorded and added the "Chance-Time" bonus music; fixed a small
+bug in the game-start routine; fully changed the score-to-LCD routine; more
+accurate high-score setting: maximum score is actually 999 not 1999; added the
+"Chance-Time" (see Readme.txt for more details)
